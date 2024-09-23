@@ -1,0 +1,15 @@
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\bin\Debug\net8.0\MultiplyManageProtoBuffer.exe
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\bin\Debug\net8.0\MultiplyManageProtoBuffer.deps.json
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\bin\Debug\net8.0\MultiplyManageProtoBuffer.runtimeconfig.json
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\bin\Debug\net8.0\MultiplyManageProtoBuffer.dll
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\bin\Debug\net8.0\MultiplyManageProtoBuffer.pdb
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\obj\Debug\net8.0\MultiplyManageProtoBuffer.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\obj\Debug\net8.0\MultiplyManageProtoBuffer.AssemblyInfoInputs.cache
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\obj\Debug\net8.0\MultiplyManageProtoBuffer.AssemblyInfo.cs
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\obj\Debug\net8.0\MultiplyManageProtoBuffer.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\obj\Debug\net8.0\MultiplyManageProtoBuffer.dll
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\obj\Debug\net8.0\refint\MultiplyManageProtoBuffer.dll
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\obj\Debug\net8.0\MultiplyManageProtoBuffer.pdb
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\obj\Debug\net8.0\MultiplyManageProtoBuffer.genruntimeconfig.cache
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\obj\Debug\net8.0\ref\MultiplyManageProtoBuffer.dll
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\obj\Debug\net8.0\MultiplyManageProtoBuffer.sourcelink.json

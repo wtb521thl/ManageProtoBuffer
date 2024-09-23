@@ -1,0 +1,15 @@
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\bin\Debug\net8.0\WindowsCmdTools.exe
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\bin\Debug\net8.0\WindowsCmdTools.deps.json
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\bin\Debug\net8.0\WindowsCmdTools.runtimeconfig.json
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\bin\Debug\net8.0\WindowsCmdTools.dll
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\bin\Debug\net8.0\WindowsCmdTools.pdb
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\obj\Debug\net8.0\WindowsCmdTools.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\obj\Debug\net8.0\WindowsCmdTools.AssemblyInfoInputs.cache
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\obj\Debug\net8.0\WindowsCmdTools.AssemblyInfo.cs
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\obj\Debug\net8.0\WindowsCmdTools.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\obj\Debug\net8.0\WindowsCmdTools.sourcelink.json
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\obj\Debug\net8.0\WindowsCmdTools.dll
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\obj\Debug\net8.0\refint\WindowsCmdTools.dll
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\obj\Debug\net8.0\WindowsCmdTools.pdb
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\obj\Debug\net8.0\WindowsCmdTools.genruntimeconfig.cache
+D:\CSharpProjects\MultiplyManageProtoBuffer\MultiplyManageProtoBuffer\obj\Debug\net8.0\ref\WindowsCmdTools.dll
