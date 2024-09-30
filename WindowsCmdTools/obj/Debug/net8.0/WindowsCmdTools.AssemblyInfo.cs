@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WindowsCmdTools")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eac9b1f39d8168147428e999b957d14d09a39126")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa31c1446cc5b85ee4df96105c2a9e01ff52826f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WindowsCmdTools")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WindowsCmdTools")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharpProjects\\MultiplyManageProtoBuffer\\MultiplyManageProtoBuffer\\WindowsCmdTools.csproj": {}
+    "D:\\CSharpProjects\\WindowsCmdTools\\WindowsCmdTools\\WindowsCmdTools.csproj": {}
   },
   "projects": {
-    "D:\\CSharpProjects\\MultiplyManageProtoBuffer\\MultiplyManageProtoBuffer\\WindowsCmdTools.csproj": {
+    "D:\\CSharpProjects\\WindowsCmdTools\\WindowsCmdTools\\WindowsCmdTools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharpProjects\\MultiplyManageProtoBuffer\\MultiplyManageProtoBuffer\\WindowsCmdTools.csproj",
+        "projectUniqueName": "D:\\CSharpProjects\\WindowsCmdTools\\WindowsCmdTools\\WindowsCmdTools.csproj",
         "projectName": "WindowsCmdTools",
-        "projectPath": "D:\\CSharpProjects\\MultiplyManageProtoBuffer\\MultiplyManageProtoBuffer\\WindowsCmdTools.csproj",
+        "projectPath": "D:\\CSharpProjects\\WindowsCmdTools\\WindowsCmdTools\\WindowsCmdTools.csproj",
         "packagesPath": "C:\\Users\\wangtianbo\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharpProjects\\MultiplyManageProtoBuffer\\MultiplyManageProtoBuffer\\obj\\",
+        "outputPath": "D:\\CSharpProjects\\WindowsCmdTools\\WindowsCmdTools\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wangtianbo\\AppData\\Roaming\\NuGet\\NuGet.Config",

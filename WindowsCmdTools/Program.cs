@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using MultiplyManageProtoBuffer;
+using System;
 
 Console.WriteLine("选择功能：1（protobuff），2（下载mcap）");
 var keyInfo = Console.ReadKey();
